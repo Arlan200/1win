@@ -5,5 +5,3 @@ VERIF_CHANNEL_ID = "-1003574648138"  # айди чата для верифика
 SUPP = "https://t.me/dealisnomore"
 ADMIN_ID = 1419567048 # Ваш айди без скобочек
 PROMO = "PRIME220" # промокод
-
-REF_URL = "https://1wqeoo.com/?open=register&p=id63"
